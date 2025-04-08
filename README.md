@@ -1,7 +1,7 @@
 <h1 align="center">DBFRNet: A Dual-Branch Feature Refinement Network Based on Pyramid Vision Transformer for Polyp Segmentation</h1>
 
 ## ● Overall Architecture
- <div align="center"><img src=""></div>
+ <div align="center"><img src="https://github.com/htkk1111/DBFRNet/blob/main/vis.png"></div>
 
 ## ● Results
  You could download our results from [goole-drive](https://drive.google.com/file/d/1-UWaBNtJjtEB_yhXXBSPJNMIx9uK-KZA/view?usp=drive_link).
