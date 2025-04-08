@@ -14,4 +14,4 @@ For result evaluation, please refer to the eval.py script from either [PolypPVT]
 
 
 ## Acknowledgement
-We are very grateful for these excellent works [PraNet]([https://github.com/DengPingFan/Polyp-PVT](https://github.com/DengPingFan/PraNet)) and [PolypPVT](https://github.com/DengPingFan/Polyp-PVT), which have provided the basis for our framework.
+We are very grateful for these excellent works [PraNet](https://github.com/DengPingFan/PraNet) and [PolypPVT](https://github.com/DengPingFan/Polyp-PVT), which have provided the basis for our framework.
